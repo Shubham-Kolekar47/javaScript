@@ -81,7 +81,7 @@ The main purpose of this repository is to:
 - String Methods
 - Template Literals
 - String Manipulation
-- Searching and Extracting Characters
+- Searching and Extracting Characters.
 - String Comparison
 
 🏗️ Objects
