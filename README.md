@@ -14,7 +14,7 @@ The main purpose of this repository is to:
 - Practice JavaScript syntax and logic
 - Build a strong foundation in web development
 - Maintain organized notes and examples for future reference
-- Improve problem-solving and programming skills
+- Improve problem-solving and programming skills.
 
 📖 Topics Covered
 
